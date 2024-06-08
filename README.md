@@ -1,0 +1,1 @@
+hejka wszystkim, uczę się tworzyć repozytorium na Gicie, glównym celem jest nauczyć się, zapamiętać i poprawnie korzystać z Gita!!!
